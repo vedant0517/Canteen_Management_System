@@ -1,0 +1,7 @@
+# Database Configuration
+# Copy this file to db.properties and fill in your MySQL credentials.
+# Do NOT commit db.properties to version control.
+
+db.url=jdbc:mysql://localhost:3306/canteen_db
+db.username=root
+db.password=your_password_here

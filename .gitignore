@@ -1,0 +1,20 @@
+# Build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database credentials (DO NOT COMMIT)
+src/main/resources/db.properties
+
+# Scratch classpath file
+cp.txt
